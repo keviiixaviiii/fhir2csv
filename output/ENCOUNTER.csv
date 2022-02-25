@@ -1,0 +1,744 @@
+EncountersText,EncounterLocation,EncounterProvider,EncounterDates,PatientUID
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1962-10-22,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1963-10-28,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1966-10-31,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1972-11-06,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1975-11-10,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1978-11-13,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1981-11-16,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1984-09-03,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1986-09-08,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1988-09-12,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Encounter for symptom,HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1990-08-26,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1990-09-17,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1992-09-21,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1994-08-29,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Encounter for 'check-up',HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1994-08-29,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1995-09-04,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1996-09-09,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Encounter for problem,HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1997-07-10,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Encounter for problem,HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1997-07-29,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+General examination of patient (procedure),MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1997-09-15,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Encounter for Problem,HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1998-01-25,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Admission to intensive care unit (procedure),HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1998-01-25,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Encounter for Problem,HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1998-07-25,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Admission to intensive care unit (procedure),HARRINGTON MEMORIAL HOSPITAL-1,Dr. Burt293 Quigley282,1998-07-25,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Death Certification,MASS LUNG AND ALLERGY PC,Dr. Wilmer32 Heidenreich818,1998-08-17,8c95253e-8ee8-9ae8-6d40-021d702dc78e
+Encounter for problem,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2002-09-27,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for problem,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2002-10-13,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for problem,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2003-05-16,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for symptom,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2004-05-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2004-06-03,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2004-12-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for symptom,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2005-04-22,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2005-06-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2006-06-08,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2007-06-14,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2008-06-19,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2009-06-25,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for check up (procedure),BRIGHAM AND WOMEN'S FAULKNER HOSPITAL,Dr. Winnie378 Witting912,2010-05-27,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2010-07-01,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2011-07-07,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2012-07-12,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for problem,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2013-02-08,6fa23508-960e-ff22-c3d0-0519a036543b
+Asthma follow-up,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2013-03-16,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for problem,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2013-03-25,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2013-07-18,6fa23508-960e-ff22-c3d0-0519a036543b
+Emergency hospital admission for asthma,BETH ISRAEL DEACONESS MEDICAL CENTER,Dr. Lorenzo669 Cummings51,2013-09-12,6fa23508-960e-ff22-c3d0-0519a036543b
+Asthma follow-up,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2013-09-14,6fa23508-960e-ff22-c3d0-0519a036543b
+Allergic disorder initial assessment,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-07-03,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2014-07-24,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-07-26,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-08-22,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-09-17,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-10-08,6fa23508-960e-ff22-c3d0-0519a036543b
+Urgent care clinic (procedure),CHELSEA MGH HEALTH CENTER MEDICAL WALK IN,Dr. Rafael239 Peralta301,2014-11-06,6fa23508-960e-ff22-c3d0-0519a036543b
+Encounter for symptom,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-10-30,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-11-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Urgent care clinic (procedure),CHELSEA MGH HEALTH CENTER MEDICAL WALK IN,Dr. Rafael239 Peralta301,2014-11-13,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-11-27,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2014-12-18,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-01-14,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-02-07,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-03-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Asthma follow-up,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-03-08,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-03-25,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-04-16,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-05-13,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-06-04,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-06-26,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2015-07-30,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-07-23,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-08-14,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-09-04,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-09-30,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-10-25,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-11-16,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2015-12-13,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-01-05,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-01-26,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-02-20,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-03-12,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-04-07,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-04-28,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-05-20,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-06-11,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-07-04,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-07-28,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2016-08-04,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-08-19,6fa23508-960e-ff22-c3d0-0519a036543b
+Emergency hospital admission for asthma,BETH ISRAEL DEACONESS MEDICAL CENTER,Dr. Lorenzo669 Cummings51,2016-08-29,6fa23508-960e-ff22-c3d0-0519a036543b
+Asthma follow-up,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-08-30,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-09-10,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-10-06,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-10-29,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-11-20,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2016-12-17,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-01-08,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-02-03,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-02-24,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-03-19,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-04-12,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-05-04,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-05-30,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-06-20,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-07-11,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-08-01,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2017-08-10,6fa23508-960e-ff22-c3d0-0519a036543b
+Asthma follow-up,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-08-25,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-08-28,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-09-19,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-10-11,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-11-07,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-12-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2017-12-27,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2018-01-21,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2018-02-14,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2018-03-08,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2018-04-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2018-04-27,6fa23508-960e-ff22-c3d0-0519a036543b
+Outpatient procedure,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2018-05-22,6fa23508-960e-ff22-c3d0-0519a036543b
+Allergic disorder follow-up assessment,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2018-06-16,6fa23508-960e-ff22-c3d0-0519a036543b
+Well child visit (procedure),PCP144782,Dr. Hoyt490 Herman763,2018-08-16,6fa23508-960e-ff22-c3d0-0519a036543b
+Emergency hospital admission for asthma,BETH ISRAEL DEACONESS MEDICAL CENTER,Dr. Lorenzo669 Cummings51,2019-02-16,6fa23508-960e-ff22-c3d0-0519a036543b
+Asthma follow-up,NEW ENGLAND BAPTIST HOSPITAL,Dr. Rudolf736 Mayert710,2019-02-19,6fa23508-960e-ff22-c3d0-0519a036543b
+General examination of patient (procedure),PCP144782,Dr. Hoyt490 Herman763,2019-08-22,6fa23508-960e-ff22-c3d0-0519a036543b
+General examination of patient (procedure),PCP144782,Dr. Hoyt490 Herman763,2020-08-27,6fa23508-960e-ff22-c3d0-0519a036543b
+Administration of vaccine to produce active immunity (procedure),BRIGHAM AND WOMEN'S FAULKNER HOSPITAL,Dr. Winnie378 Witting912,2021-05-13,6fa23508-960e-ff22-c3d0-0519a036543b
+Administration of vaccine to produce active immunity (procedure),BRIGHAM AND WOMEN'S FAULKNER HOSPITAL,Dr. Winnie378 Witting912,2021-06-10,6fa23508-960e-ff22-c3d0-0519a036543b
+General examination of patient (procedure),PCP144782,Dr. Hoyt490 Herman763,2021-09-02,6fa23508-960e-ff22-c3d0-0519a036543b
+Cardiac Arrest,MERCY MEDICAL CTR,Dr. Douglass930 Windler79,1987-11-23,83524678-9bff-93b7-ef89-d7f5390072ff
+Well child visit (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,1994-07-12,83524678-9bff-93b7-ef89-d7f5390072ff
+Well child visit (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,1997-07-29,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,1998-08-04,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,1999-08-10,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2000-08-15,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2001-08-21,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2002-08-27,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2003-09-02,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2004-09-07,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2005-09-13,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2006-09-19,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2007-09-25,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2008-09-30,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2009-10-06,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for check up (procedure),BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2010-04-13,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2010-10-12,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2011-10-18,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for symptom,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2012-01-27,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2012-10-23,83524678-9bff-93b7-ef89-d7f5390072ff
+Patient encounter procedure,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2012-11-05,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal initial visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2012-12-31,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-01-28,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-02-25,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-03-25,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-04-23,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-05-21,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-06-18,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-07-16,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-07-30,83524678-9bff-93b7-ef89-d7f5390072ff
+Prenatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-08-06,83524678-9bff-93b7-ef89-d7f5390072ff
+Obstetric emergency hospital admission,MERCY MEDICAL CTR,Dr. Douglass930 Windler79,2013-08-13,83524678-9bff-93b7-ef89-d7f5390072ff
+Postnatal visit,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-09-24,83524678-9bff-93b7-ef89-d7f5390072ff
+Consultation for treatment,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2013-09-24,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for symptom,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2013-10-12,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2013-10-28,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for symptom,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2014-05-09,83524678-9bff-93b7-ef89-d7f5390072ff
+Consultation for treatment,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2014-09-19,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2014-11-03,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2015-11-09,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2016-11-14,83524678-9bff-93b7-ef89-d7f5390072ff
+Consultation for treatment,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2017-09-03,83524678-9bff-93b7-ef89-d7f5390072ff
+Patient encounter procedure,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2017-09-05,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2017-11-20,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for symptom,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2018-01-09,83524678-9bff-93b7-ef89-d7f5390072ff
+Consultation for treatment,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2018-08-31,83524678-9bff-93b7-ef89-d7f5390072ff
+Patient encounter procedure,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2018-10-02,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2018-11-26,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for check up (procedure),BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2019-10-28,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for symptom,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2019-10-22,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2019-12-02,83524678-9bff-93b7-ef89-d7f5390072ff
+General examination of patient (procedure),MEDEXPRESS URGENT CARE PC MASSACHUSETTS,Dr. Macy314 Jaskolski867,2020-12-07,83524678-9bff-93b7-ef89-d7f5390072ff
+Administration of vaccine to produce active immunity (procedure),BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2021-03-08,83524678-9bff-93b7-ef89-d7f5390072ff
+Administration of vaccine to produce active immunity (procedure),BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2021-03-30,83524678-9bff-93b7-ef89-d7f5390072ff
+Consultation for treatment,BAYSTATE MEDICAL CENTER,Dr. Henry768 Paucek755,2021-08-15,83524678-9bff-93b7-ef89-d7f5390072ff
+Encounter for symptom,SHRINERS' HOSPITAL FOR CHILDREN (THE),Dr. Loma263 Funk324,2021-08-18,83524678-9bff-93b7-ef89-d7f5390072ff
+Emergency room admission (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1952-02-05,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Emergency Room Admission,"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1961-03-23,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1964-07-14,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1965-07-20,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1966-07-26,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1967-08-01,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1968-08-06,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1969-08-12,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1970-08-18,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1971-08-24,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1972-08-29,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1973-09-04,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1974-09-10,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1975-09-16,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1976-09-21,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1977-09-27,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1978-10-03,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1979-10-09,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Patient encounter procedure,"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1979-10-05,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1980-10-14,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1981-10-20,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1982-10-26,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Consultation for treatment,"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1982-10-22,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1983-11-01,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for check up (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1984-06-26,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1984-11-06,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1985-11-12,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1986-11-18,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for check up (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1987-07-28,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1987-11-24,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1988-11-29,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Prenatal initial visit,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1989-01-10,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1989-12-05,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1990-12-11,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1991-12-17,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for check up (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1992-12-08,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1992-12-22,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for check up (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1993-06-29,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Patient encounter procedure,"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1993-06-29,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1993-08-20,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1993-12-28,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1995-01-03,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1996-01-09,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1997-01-14,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1998-01-20,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,1999-01-26,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2000-02-01,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Emergency room admission (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2000-07-04,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2001-02-06,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2002-02-12,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2003-02-18,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2004-02-24,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2005-03-01,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2006-03-07,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2007-03-13,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2008-03-18,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2009-03-24,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2010-03-30,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2011-04-05,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2012-04-10,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2013-04-16,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2014-04-22,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2014-06-26,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2015-04-28,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2016-05-03,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for 'check-up',SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2016-05-20,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2017-05-09,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2018-05-15,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2019-05-21,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2020-05-26,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2021-01-13,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Administration of vaccine to produce active immunity (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2021-03-09,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Administration of vaccine to produce active immunity (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2021-04-06,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Encounter for 'check-up',SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2021-05-20,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+General examination of patient (procedure),"STANLEY STREET TREATMENT AND RESOURCES, INC",Dr. Etha376 Littel644,2021-06-01,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Emergency room admission (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2021-08-28,4e343b0a-8698-b6dd-64c6-c2d2d0959e6e
+Well child visit (procedure),PCP170405,Dr. Jayson808 Keeling57,1981-08-02,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for check up (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1984-10-21,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,1986-08-31,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,1987-09-06,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,1990-09-09,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,1996-09-15,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,1999-09-19,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2002-04-23,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Consultation for treatment,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2005-09-21,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2008-07-13,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2008-07-13,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2010-07-18,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2012-07-22,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Consultation for treatment,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2012-08-17,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Consultation for treatment,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2013-08-12,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2014-07-27,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Consultation for treatment,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2014-08-07,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Patient encounter procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2014-08-11,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Patient encounter procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2014-11-09,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Emergency room admission (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2016-06-30,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2016-07-31,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Consultation for treatment,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2016-07-31,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2017-01-22,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2017-03-23,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Patient encounter procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2017-06-11,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Prenatal initial visit,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2017-08-06,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Prenatal visit,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2017-08-14,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Consultation for treatment,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2017-08-20,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for check up (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2018-01-07,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2018-01-01,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2018-07-08,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Encounter for 'check-up',LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2018-07-08,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Patient encounter procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2018-08-26,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Emergency room admission (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2019-06-14,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2019-07-14,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2020-07-19,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Emergency room admission (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2021-04-07,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+General examination of patient (procedure),PCP170405,Dr. Jayson808 Keeling57,2021-07-25,6e4ac285-2a8d-a30d-5ecb-e32cb595a876
+Well child visit (procedure),PCP45409,Dr. Nathan164 Beier427,2010-05-20,1029f880-d3db-f477-9da3-f59c14ed22c6
+Well child visit (procedure),PCP45409,Dr. Nathan164 Beier427,2012-05-31,1029f880-d3db-f477-9da3-f59c14ed22c6
+Well child visit (procedure),PCP45409,Dr. Nathan164 Beier427,2013-06-06,1029f880-d3db-f477-9da3-f59c14ed22c6
+Well child visit (procedure),PCP45409,Dr. Nathan164 Beier427,2014-06-12,1029f880-d3db-f477-9da3-f59c14ed22c6
+Encounter for symptom,NASHOBA VALLEY MEDICAL CENTER,Dr. Jocelyn538 Green467,2014-06-24,1029f880-d3db-f477-9da3-f59c14ed22c6
+Well child visit (procedure),PCP45409,Dr. Nathan164 Beier427,2015-06-18,1029f880-d3db-f477-9da3-f59c14ed22c6
+General examination of patient (procedure),PCP45409,Dr. Nathan164 Beier427,2016-06-23,1029f880-d3db-f477-9da3-f59c14ed22c6
+General examination of patient (procedure),PCP45409,Dr. Nathan164 Beier427,2017-06-29,1029f880-d3db-f477-9da3-f59c14ed22c6
+General examination of patient (procedure),PCP45409,Dr. Nathan164 Beier427,2020-07-02,1029f880-d3db-f477-9da3-f59c14ed22c6
+Encounter for symptom,NASHOBA VALLEY MEDICAL CENTER,Dr. Jocelyn538 Green467,2021-02-04,1029f880-d3db-f477-9da3-f59c14ed22c6
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1961-06-16,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1962-06-22,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1965-06-25,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1971-07-02,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1974-07-05,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Encounter for check up (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,1975-10-31,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Encounter for problem,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,1975-10-31,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1977-07-08,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1980-07-11,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1983-04-29,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1985-05-03,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1987-05-08,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1993-04-23,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1994-04-29,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1995-05-05,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1996-05-10,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1997-05-16,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,1998-05-22,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2000-06-02,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2001-06-08,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2002-06-14,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2003-06-20,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2004-06-25,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2005-07-01,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Encounter for check up (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2006-05-26,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2008-07-18,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2009-07-24,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2010-07-30,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2011-08-05,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2012-08-10,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2012-11-23,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2013-08-16,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Encounter for problem (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-02,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-05,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-08,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-11,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-14,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-17,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-20,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-23,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-02-26,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-03-01,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure (procedure),BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2014-03-04,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2014-08-22,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2015-08-28,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2016-09-02,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2017-09-08,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+Patient encounter procedure,BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH,Dr. Ingrid581 Jacobson885,2017-11-24,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2018-09-14,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2019-09-20,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP222354,Dr. Willie882 Ebert178,2020-09-25,a18edb30-e93c-8e9b-8e6a-95a651a24a36
+General examination of patient (procedure),PCP46940,Dr. Ernesto186 Regalado83,2008-12-20,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+General examination of patient (procedure),PCP46940,Dr. Ernesto186 Regalado83,2009-12-26,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+General examination of patient (procedure),Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2012-12-29,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Emergency room admission (procedure),WINCHESTER HOSPITAL,Dr. Andrea7 Hirthe744,2013-04-16,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Encounter for 'check-up',Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2013-06-26,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+General examination of patient (procedure),Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2016-01-02,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Encounter for symptom,Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2016-11-12,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Urgent care clinic (procedure),WALK IN AND PRIMARY CARE,Dr. Kandace783 Reilly981,2016-11-19,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+General examination of patient (procedure),Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2019-01-05,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Encounter for symptom,Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2021-07-12,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Administration of vaccine to produce active immunity (procedure),Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2021-08-14,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Administration of vaccine to produce active immunity (procedure),Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA),Dr. Reinaldo138 Zieme486,2021-09-11,f406a4e8-821b-0c9a-c8ec-09ad0f1fe9c6
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1942-11-22,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1942-12-10,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1945-02-12,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1947-05-28,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Prenatal initial visit,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1958-12-20,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Prenatal visit,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1959-11-28,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1960-11-26,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1961-12-02,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1962-12-08,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1963-12-14,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1964-12-19,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1965-12-25,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Prenatal initial visit,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1966-12-31,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1968-01-06,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1969-01-11,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1970-01-17,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1971-01-23,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1972-01-29,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1973-02-03,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1974-02-09,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1975-02-15,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1976-02-21,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Consultation for treatment,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1976-02-20,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1977-02-26,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1978-03-04,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1979-03-10,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1980-03-15,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1981-03-21,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1982-03-27,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1983-04-02,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1984-04-07,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1985-04-13,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1986-04-19,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1987-04-25,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1988-04-30,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1989-04-08,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1989-05-06,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1990-05-12,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1990-11-12,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1991-05-18,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1992-05-23,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Outpatient procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1992-05-22,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1992-08-20,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Outpatient procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1992-08-21,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1993-05-29,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1994-06-04,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1995-06-10,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for check up (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1995-12-09,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1996-06-15,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1997-06-21,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,1997-10-30,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1998-06-27,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,1999-07-03,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2000-07-08,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2001-07-14,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2002-07-20,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2003-07-26,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2004-07-31,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2005-08-06,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2006-08-12,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2007-08-18,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for check up (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2008-03-15,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for symptom,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2008-03-11,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2008-08-23,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2009-08-29,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2010-09-04,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2011-09-10,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2012-03-14,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Emergency room admission (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2012-04-10,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for 'check-up',LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2012-05-16,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2012-09-15,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2013-09-21,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2014-09-27,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Emergency room admission (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2015-08-04,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2015-10-03,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Patient encounter procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2016-03-05,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2016-10-08,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for problem,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2016-12-25,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2017-10-14,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2018-10-20,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2019-10-26,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),NEPHROLOGY ASSSOCIATES OF THE MERRIMACK VALLEY PC,Dr. Jeffry142 Mraz590,2020-10-31,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Follow-up encounter,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2020-11-21,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Encounter for symptom (procedure),LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2020-12-29,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+Patient encounter procedure,LOWELL GENERAL HOSPITAL,Dr. Willena258 Oberbrunner298,2021-03-06,b8c71fe0-e911-205e-19c3-b92e88e5b5a6
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,1995-07-06,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,1996-07-11,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,2008-07-24,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,2011-07-28,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,2014-07-31,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+Encounter for problem,MILFORD REGIONAL MEDICAL CENTER,Dr. Olive251 Pollich983,2014-07-31,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+Emergency room admission (procedure),MILFORD REGIONAL MEDICAL CENTER,Dr. Olive251 Pollich983,2015-08-20,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,2017-05-18,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,2019-05-23,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+Encounter for symptom (procedure),MILFORD REGIONAL MEDICAL CENTER,Dr. Olive251 Pollich983,2021-01-21,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+General examination of patient (procedure),VHM SERVICES INC,Dr. Isaac321 Hudson301,2021-05-27,e5b7d947-da2b-9cf4-12a0-9eb2cf735330
+Emergency Room Admission,CAPE COD HOSPITAL,Dr. Tuan998 Fadel536,1982-05-26,b0478b4f-16f2-af38-d199-44db19304df2
+Well child visit (procedure),PCP25388,Dr. Valentine262 Hirthe744,1984-09-20,b0478b4f-16f2-af38-d199-44db19304df2
+Well child visit (procedure),PCP25388,Dr. Valentine262 Hirthe744,1986-10-02,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,1994-11-17,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,1995-11-23,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,2001-11-29,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,2010-12-09,b0478b4f-16f2-af38-d199-44db19304df2
+Encounter for symptom,CAPE COD HOSPITAL,Dr. Tuan998 Fadel536,2013-11-05,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,2013-12-12,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,2016-09-29,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,2018-10-04,b0478b4f-16f2-af38-d199-44db19304df2
+Encounter for symptom,CAPE COD HOSPITAL,Dr. Tuan998 Fadel536,2019-07-15,b0478b4f-16f2-af38-d199-44db19304df2
+Encounter for check up (procedure),CAPE COD HOSPITAL,Dr. Tuan998 Fadel536,2019-07-25,b0478b4f-16f2-af38-d199-44db19304df2
+General examination of patient (procedure),PCP25388,Dr. Valentine262 Hirthe744,2020-10-08,b0478b4f-16f2-af38-d199-44db19304df2
+Administration of vaccine to produce active immunity (procedure),CAPE COD HOSPITAL,Dr. Tuan998 Fadel536,2021-03-18,b0478b4f-16f2-af38-d199-44db19304df2
+Administration of vaccine to produce active immunity (procedure),CAPE COD HOSPITAL,Dr. Tuan998 Fadel536,2021-04-15,b0478b4f-16f2-af38-d199-44db19304df2
+Encounter for problem,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,1986-12-30,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for problem,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,1987-01-13,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for symptom,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,1992-04-05,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for symptom,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2003-12-22,0f978b87-8054-e6d3-aa03-20e101ea37c0
+General examination of patient (procedure),PCP19321,Dr. Keith571 Lubowitz58,2004-12-30,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Consultation for treatment,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2010-12-08,0f978b87-8054-e6d3-aa03-20e101ea37c0
+General examination of patient (procedure),PCP19321,Dr. Keith571 Lubowitz58,2011-01-06,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Consultation for treatment,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2011-12-03,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Patient encounter procedure,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2011-12-06,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Consultation for treatment,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2012-11-30,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Consultation for treatment,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2013-11-25,0f978b87-8054-e6d3-aa03-20e101ea37c0
+General examination of patient (procedure),PCP19321,Dr. Keith571 Lubowitz58,2014-01-09,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for problem,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2014-01-09,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for problem (procedure),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2014-01-09,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for problem,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2014-01-10,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for symptom,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2014-07-12,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Patient encounter procedure,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2014-09-25,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal initial visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2014-11-20,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2014-12-18,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-01-15,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-02-12,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-03-12,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-04-09,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-05-07,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-06-04,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-06-18,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Obstetric emergency hospital admission,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-06-25,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Postnatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-08-06,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for symptom,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2015-09-11,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal initial visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2016-12-08,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-01-05,0f978b87-8054-e6d3-aa03-20e101ea37c0
+General examination of patient (procedure),PCP19321,Dr. Keith571 Lubowitz58,2017-01-12,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-02-02,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-03-02,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-03-30,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-04-27,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-05-25,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-06-22,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-07-06,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-07-13,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-07-20,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Obstetric emergency hospital admission,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-07-27,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Postnatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-09-07,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Consultation for treatment,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-09-07,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Patient encounter procedure,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2017-12-14,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Patient encounter procedure,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2018-03-15,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Patient encounter procedure,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2018-06-14,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Patient encounter procedure,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2018-09-13,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal initial visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2018-11-15,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2018-12-13,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-01-10,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-02-07,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-03-07,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-04-04,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-05-02,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-05-30,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-06-13,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-06-20,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-06-27,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Obstetric emergency hospital admission,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-07-04,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Postnatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-08-15,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal initial visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-12-12,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Patient-initiated encounter,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2019-12-21,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Prenatal visit,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2020-01-09,0f978b87-8054-e6d3-aa03-20e101ea37c0
+General examination of patient (procedure),PCP19321,Dr. Keith571 Lubowitz58,2020-01-16,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Consultation for treatment,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2020-08-22,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Emergency room admission (procedure),"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2021-01-06,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Encounter for symptom,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2021-07-11,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Consultation for treatment,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",Dr. Demetrice140 Crooks415,2021-08-17,0f978b87-8054-e6d3-aa03-20e101ea37c0
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2014-09-29,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2014-11-03,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2015-01-05,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Encounter for symptom,FALMOUTH HOSPITAL,Dr. Regena252 Kunde533,2014-12-31,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Encounter for check up (procedure),FALMOUTH HOSPITAL,Dr. Regena252 Kunde533,2015-01-12,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2015-03-09,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2015-06-08,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2015-09-07,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2015-12-07,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2016-03-07,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2016-09-05,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2017-03-06,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2017-09-04,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2018-03-05,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2018-09-03,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2019-09-09,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Emergency room admission (procedure),FALMOUTH HOSPITAL,Dr. Regena252 Kunde533,2019-09-23,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2020-09-14,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),"SANDWICH PHYSICAL THERAPY, INC",Dr. Ted955 Beer512,2021-09-20,64cdd7b0-d5a5-ca8a-4b03-3db12d7534be
+Well child visit (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,1981-05-29,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,1985-06-21,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,1986-06-27,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,1989-06-30,cced3031-d98c-d870-5dce-f0086d8c7a34
+Prenatal initial visit,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,1990-03-09,cced3031-d98c-d870-5dce-f0086d8c7a34
+Prenatal visit,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,1992-07-09,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,1998-07-10,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2001-07-13,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2004-07-16,cced3031-d98c-d870-5dce-f0086d8c7a34
+Consultation for treatment,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2007-04-29,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for check up (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2008-07-25,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2009-05-08,cced3031-d98c-d870-5dce-f0086d8c7a34
+Consultation for treatment,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2011-04-08,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2011-05-13,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2011-05-20,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2011-11-18,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2012-02-17,cced3031-d98c-d870-5dce-f0086d8c7a34
+Consultation for treatment,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2012-04-02,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2012-05-18,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2012-08-17,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2012-11-16,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2013-02-15,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2013-05-17,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2013-05-17,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2013-08-16,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for symptom,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2013-09-13,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for check up (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2013-09-20,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2013-11-15,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for problem (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-02-02,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-02-14,cced3031-d98c-d870-5dce-f0086d8c7a34
+Follow-up encounter (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-03-19,cced3031-d98c-d870-5dce-f0086d8c7a34
+Consultation for treatment,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-03-22,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-05-16,cced3031-d98c-d870-5dce-f0086d8c7a34
+Follow-up encounter (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-05-18,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2014-05-30,cced3031-d98c-d870-5dce-f0086d8c7a34
+Follow-up encounter (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-07-17,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-08-15,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2014-11-14,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for symptom,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2015-01-22,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2015-02-13,cced3031-d98c-d870-5dce-f0086d8c7a34
+Consultation for treatment,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2015-03-17,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2015-05-15,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2015-06-05,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2015-08-14,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2015-11-13,cced3031-d98c-d870-5dce-f0086d8c7a34
+Patient encounter procedure,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2016-02-12,cced3031-d98c-d870-5dce-f0086d8c7a34
+Prenatal initial visit,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2016-05-06,cced3031-d98c-d870-5dce-f0086d8c7a34
+Prenatal visit,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2016-05-25,cced3031-d98c-d870-5dce-f0086d8c7a34
+Consultation for treatment,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2016-05-27,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2016-06-10,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for symptom,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2016-06-10,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for symptom,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2016-11-24,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for check up (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2016-12-02,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for 'check-up',HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2017-04-28,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2017-06-16,cced3031-d98c-d870-5dce-f0086d8c7a34
+Emergency room admission (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2017-12-28,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for 'check-up',HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2018-01-30,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2018-06-22,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for 'check-up',HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2018-08-29,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2019-06-28,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2020-07-03,cced3031-d98c-d870-5dce-f0086d8c7a34
+Encounter for symptom,HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2021-01-24,cced3031-d98c-d870-5dce-f0086d8c7a34
+Administration of vaccine to produce active immunity (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2021-03-19,cced3031-d98c-d870-5dce-f0086d8c7a34
+Administration of vaccine to produce active immunity (procedure),HALLMARK HEALTH SYSTEM,Dr. Berry486 Borer986,2021-04-16,cced3031-d98c-d870-5dce-f0086d8c7a34
+General examination of patient (procedure),PERFORMANCE REHABILITATION OF WESTERN NEW ENGLAND LLC,Dr. Milo271 Stanton715,2021-07-09,cced3031-d98c-d870-5dce-f0086d8c7a34
+Well child visit (procedure),PCP905,Dr. Chia293 Jerde200,1945-10-18,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Well child visit (procedure),PCP905,Dr. Chia293 Jerde200,1952-11-27,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1955-11-04,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1959-12-24,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1962-12-27,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Prenatal initial visit,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1967-01-26,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Prenatal initial visit,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1969-01-02,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1969-05-05,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1972-01-06,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1979-11-01,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1985-11-14,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for 'check-up',SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1987-10-22,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter Inpatient,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1990-02-03,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter Inpatient,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1990-06-24,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter Inpatient,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1990-11-10,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Emergency Room Admission,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1991-05-13,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for Problem,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1992-06-08,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1992-11-19,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Drug rehabilitation and detoxification,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1993-11-23,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1994-12-01,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1995-04-22,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1995-09-18,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1995-10-18,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1995-12-07,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Drug rehabilitation and detoxification,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1996-05-10,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1996-06-07,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1996-07-07,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1996-08-06,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1996-09-05,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1996-10-05,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1996-11-04,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1996-12-12,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1997-02-05,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1997-09-05,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for 'check-up',SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1997-10-21,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1997-12-18,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,1998-10-18,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1998-12-24,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Drug rehabilitation and detoxification,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1999-01-26,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for 'check-up',SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1999-02-05,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,1999-09-08,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,1999-12-30,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,2001-01-04,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2001-04-23,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Urgent care clinic (procedure),TRU MEDICAL WALK IN CENTER,Dr. Cliff504 Swaniawski813,2001-05-03,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for check up (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2001-05-10,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,2002-01-10,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Drug rehabilitation and detoxification,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2002-01-22,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for symptom,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2002-06-13,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for check up (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2002-06-20,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2002-11-03,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2002-11-20,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,2003-01-16,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2003-05-19,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2003-06-24,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem (procedure),"SOUTHCOAST HOSPITAL GROUP, INC",Dr. Teodora360 Kihn564,2003-07-24,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for Problem,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2003-11-15,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Admission to intensive care unit (procedure),SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2003-11-15,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+General examination of patient (procedure),PCP905,Dr. Chia293 Jerde200,2004-01-22,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for 'check-up',SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2004-02-05,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for problem,SAINT ANNE'S HOSPITAL,Dr. Cecille691 Halvorson124,2004-05-14,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Death Certification,PCP905,Dr. Chia293 Jerde200,2004-09-16,7c4e1f8e-29e4-f88f-095a-aa6a9f55e6de
+Encounter for symptom,GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,1979-04-24,91cf58f9-191c-3a49-a979-2ca64e52c369
+Well child visit (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1987-03-12,91cf58f9-191c-3a49-a979-2ca64e52c369
+Well child visit (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1992-04-09,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1993-04-15,91cf58f9-191c-3a49-a979-2ca64e52c369
+Hypertension follow-up encounter,GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,1993-05-15,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1994-04-21,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1995-04-27,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1996-05-02,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1997-05-08,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1998-05-14,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,1999-05-20,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2000-05-25,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2001-05-31,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2002-06-06,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2003-06-12,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2004-06-17,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2005-06-23,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2006-06-29,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2007-07-05,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2008-07-10,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2009-07-16,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2010-07-22,91cf58f9-191c-3a49-a979-2ca64e52c369
+Encounter for check up (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2010-11-25,91cf58f9-191c-3a49-a979-2ca64e52c369
+Encounter for symptom,GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2010-11-18,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2011-07-28,91cf58f9-191c-3a49-a979-2ca64e52c369
+Emergency room admission (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2011-10-20,91cf58f9-191c-3a49-a979-2ca64e52c369
+Encounter for 'check-up',GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2011-11-23,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2012-08-02,91cf58f9-191c-3a49-a979-2ca64e52c369
+Emergency room admission (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2013-01-13,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2013-08-08,91cf58f9-191c-3a49-a979-2ca64e52c369
+Encounter for problem (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2014-02-01,91cf58f9-191c-3a49-a979-2ca64e52c369
+Follow-up encounter (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2014-03-15,91cf58f9-191c-3a49-a979-2ca64e52c369
+Follow-up encounter (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2014-05-14,91cf58f9-191c-3a49-a979-2ca64e52c369
+Follow-up encounter (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2014-07-13,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2014-08-14,91cf58f9-191c-3a49-a979-2ca64e52c369
+Follow-up encounter (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2014-09-11,91cf58f9-191c-3a49-a979-2ca64e52c369
+Encounter for symptom,GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2015-06-27,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2015-08-20,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2016-08-25,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2017-08-31,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2018-09-06,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2019-09-12,91cf58f9-191c-3a49-a979-2ca64e52c369
+Emergency room admission (procedure),GOOD SAMARITAN MEDICAL CENTER,Dr. Elayne206 Renner328,2019-11-09,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2020-09-17,91cf58f9-191c-3a49-a979-2ca64e52c369
+General examination of patient (procedure),GUARDIAN BROCKTON PC,Dr. Myrna889 Schmitt836,2021-09-23,91cf58f9-191c-3a49-a979-2ca64e52c369
